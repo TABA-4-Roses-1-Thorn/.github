@@ -24,6 +24,14 @@
 | ___역할___ | BE, AI | FE | BE | AI | BE |
 | ___Github___ | <a href="https://github.com/JHZLO"><img src="https://avatars.githubusercontent.com/u/105791673?v=4" width="64" height="64"></a> | <a href="https://github.com/ganyaaaaa"><img src="https://avatars.githubusercontent.com/u/141535219?v=4" width="64" height="64"></a> | <a href="https://github.com/Maengdahae"><img src="https://avatars.githubusercontent.com/u/164438476?v=4" width="64" height="64"></a> | <a href="https://github.com/youwon000218"><img src="https://avatars.githubusercontent.com/u/104317947?v=4" width="64" height="64"></a> | <a href="https://github.com/woominhee"><img src="https://avatars.githubusercontent.com/u/73922498?v=4" width="64" height="64"></a> |
 
+## 시연영상
+
+https://github.com/user-attachments/assets/348cd66e-3648-4a7c-a3e0-1032bc838525
+
+
+
+
+
 ## 프로젝트 기간
 - 24.05 ~ 24.06
 
